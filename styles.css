@@ -2,6 +2,8 @@
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   text-align: center;
   background-color: coral;
+  padding:10%;
+    padding-bottom:30%;
 }
 .div {
   padding: 10px;

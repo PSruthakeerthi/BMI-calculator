@@ -1,0 +1,24 @@
+.App {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  background-color: rgb(203, 205, 92);
+
+  padding: 10%;
+  padding-bottom: 30%;
+}
+.div {
+  padding: 10px;
+}
+label {
+  font-style: italic;
+}
+
+.btn {
+  font-weight: bold;
+  background-color: darkgray;
+  height: 30px;
+  border-radius: 10px;
+}
+#res {
+  color: crimson;
+}

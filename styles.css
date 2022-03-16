@@ -1,0 +1,43 @@
+.App {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  background-color: steelblue;
+
+  padding: 10%;
+  padding-bottom: 30%;
+}
+.div {
+  padding: 10px;
+}
+label {
+  font-style: italic;
+  color: white;
+  font-weight: bold;
+}
+input {
+  border: 5px black;
+  height: 20px;
+}
+
+.div button {
+  font-weight: bold;
+  font-size: large;
+  background-color: yellow;
+  height: 30px;
+  border-radius: 10px;
+}
+#res {
+  color: yellow;
+  font-weight: bold;
+}
+
+h1 {
+  color: yellow;
+}
+p {
+  margin-left: 30%;
+  color: lightskyblue;
+  text-align: center;
+  width: 50%;
+  text-align: center;
+}
